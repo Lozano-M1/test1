@@ -1,0 +1,10 @@
+1 credenciales de w.
+-Eliminar los usuarios de github
+2 abrir la carpeta de trabajo 
+donde este trabajando en su momento 
+3 Quitar de otra persona  en donde esta el mucheco
+3 Abrir la terminal de visual studio y correr los siguientes dos comendos
+git config --global user.name "katrianaq19-ux"
+git config --global user.email katrianaq19@gmail.com
+
+4 subir siempre los cambioas que acabo de ejecutar en la ultima estable
